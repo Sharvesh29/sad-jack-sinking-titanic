@@ -1,2 +1,2 @@
-# sad-jack-sinking-titanic
-titanic data set
+# Sad-Jack&Rose-sinking-titanic
+ML trainning with Titanic Dataset.
